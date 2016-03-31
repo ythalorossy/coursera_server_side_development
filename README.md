@@ -1,1 +1,2 @@
-# coursera_server_side_development
+# Coursera Server Side Development
+Using Node.js, Express.js and MongoDB 
